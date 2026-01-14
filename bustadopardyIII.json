@@ -1,0 +1,374 @@
+{
+    "game": {
+        "single": [
+            {
+                "category": "Líkindamynd",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "This is clue 1.1",
+                        "solution": "What is the solution to clue 1.1?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "This is clue 1.2",
+                        "solution": "What is the solution to clue 1.2?"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "This is clue 1.3",
+                        "solution": "What is the solution to clue 1.3?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This is clue 1.4",
+                        "solution": "What is the solution to clue 1.4?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "This is clue 1.5",
+                        "solution": "What is the solution to clue 1.5?"
+                    }
+                ]
+            },
+            {
+                "category": "2019",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Eurovision 2019 var haldið í Ísrael en tilfinningaríka píanóballaðan ''Arcade'' með Duncan Laurence tók sigurinn, en fyrir hvaða land keppti hann?",
+                        "solution": "Hollandi"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Í Apríl 2019 braust út eldur í líklega frægustu dómkirkju heims í Frakklandi sem endaði með að kirkjuturninn hrundi og byggingin skaðbrenndist, hvað heitir sú dómkirkja?",
+                        "solution": "Notre Dame"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Í Febrúar 2019 héldu tveir frekar breiðir þjóðarleiðtogar sögulegan fund á þungvopnuðum landamærum í Asíu og í tilvikinu urðu til meme-aðar mynd af þeim tveim. M.a af þeim að ganga yfir landamærin",
+                        "solution": "Donald Trump og Kim Jong-Un"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Önnur söguleg mynd, í þetta skipti tekin af mjög fjarlægru og stóru fyrirbæri og var þetta fyrsta skipti sem mynd af slíku fyrirbæri náðist, hvert er fyrirbærið?",
+                        "solution": "Svartholi"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "Avengers myndaserían lauk árið 2019 með myndinni Avengers:Endgame, en önnur sería endaði sama ár; ein eftirvæntasta útkoma á sögu á okkar kynslóð, en margir voru ósáttir með hvernig hún endaði. Hver er serían?",
+                        "solution": "Game of Thrones"
+                    }
+                ]
+            },
+            {
+                "category": "Single Category 3",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "This is clue 3.1",
+                        "solution": "What is the solution to clue 3.1?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "This is clue 3.2",
+                        "solution": "What is the solution to clue 3.2?"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "This is clue 3.3",
+                        "solution": "What is the solution to clue 3.3?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This is clue 3.4",
+                        "solution": "What is the solution to clue 3.4?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "This is clue 3.5",
+                        "solution": "What is the solution to clue 3.5?"
+                    }
+                ]
+            },
+            {
+                "category": "Single Category 4",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "This is clue 4.1",
+                        "solution": "What is the solution to clue 4.1?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "This is clue 4.2",
+                        "solution": "What is the solution to clue 4.2?"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "This is clue 4.3",
+                        "solution": "What is the solution to clue 4.3?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This is clue 4.4",
+                        "solution": "What is the solution to clue 4.4?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "This is clue 4.5",
+                        "solution": "What is the solution to clue 4.5?"
+                    }
+                ]
+            },
+            {
+                "category": "Single Category 5",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "This is clue 5.1",
+                        "solution": "What is the solution to clue 5.1?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "This is clue 5.2",
+                        "solution": "What is the solution to clue 5.2?"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "This is clue 5.3",
+                        "solution": "What is the solution to clue 5.3?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This is clue 5.4",
+                        "solution": "What is the solution to clue 5.4?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "This is clue 5.5",
+                        "solution": "What is the solution to clue 5.5?"
+                    }
+                ]
+            },
+            {
+                "category": "Höddi Magg",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "This is clue 6.1",
+                        "solution": "What is the solution to clue 6.1?"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Á RÚV voru um tímabil aðeins 2 íþróttafréttamenn, einn af þeim var Einar Örn Jónsson, en í hvaða íþrótt keppti hann áður en hann hóf störf sem íþróttafréttamaður?",
+                        "solution": "Handknattleik Karla"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Eiður Smári Guðjónssen er einn verðlaunaðasti fótboltamaður íslandssögunnar og sést nú oft á pallborði Enska Boltans, en með hvaða tveim Íslensku liðum keppti hann með áður en hann var seldur erlendis?",
+                        "solution": "Valur og KR"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This is clue 6.4",
+                        "solution": "What is the solution to clue 6.4?"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "Hinn alræmdi Hörður Magnússon íþróttafréttamaður er sennilega eitt umtalaðasta nafn í íþróttafréttamennsku á Íslandi, en minna umtalað er níðingslega viðurnefnið sem að KR-ingar og seinna Keflvíkingar og Eyjamenn notuðu á hann þegar hann spilaði fyrir FH.",
+                        "solution": "Skinkan"
+                    }
+                ]
+            }
+        ],
+        "double": [
+            {
+                "category": "iSíminn",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "SMS skilaboð milli tveggja iPhone símum er einkennd af bláum spjallbúbblum, en hvernig eru þær á litin þegar sent er á Android síma?",
+                        "solution": "Grænar"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Hinn sívinsæli iPhone hefur nú verið gefinn út síðan 2007 og alltaf hefur stýrikerfi símans heitið það sama, hvað nefnist það?",
+                        "solution": "iOS"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "''Tíundi'' iPhone-inn, sem þeir kölluðu iPhone X, kom út árið 2017, en hvað var svona óvenjulegt við að hann var kallaður ''X''",
+                        "solution": "Þeir hoppuðu yfir iPhone 9"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "Árið 2017 kynntu Apple iPhone 7 á markaðinn sem var fyrsti iPhone-inn sem var ekki með heyrnartólatengi, sérkennileg tímasetning vegna hinnar vörunnar sem Apple kynndi samhliða",
+                        "solution": "What is the solution to DJ clue 1.4?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "This is DJ clue 1.5",
+                        "solution": "What is the solution to DJ clue 1.5?"
+                    }
+                ]
+            },
+            {
+                "category": "Double Category 2",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "This is DJ clue 2.1",
+                        "solution": "What is the solution to DJ clue 2.1?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This is DJ clue 2.2",
+                        "solution": "What is the solution to DJ clue 2.2?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "This is DJ clue 2.3",
+                        "solution": "What is the solution to DJ clue 2.3?"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This is DJ clue 2.4",
+                        "solution": "What is the solution to DJ clue 2.4?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "This is DJ clue 2.5",
+                        "solution": "What is the solution to DJ clue 2.5?"
+                    }
+                ]
+            },
+            {
+                "category": "Double Category 3",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "This is DJ clue 3.1",
+                        "solution": "What is the solution to DJ clue 3.1?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This is DJ clue 3.2",
+                        "solution": "What is the solution to DJ clue 3.2?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "This is DJ clue 3.3",
+                        "solution": "What is the solution to DJ clue 3.3?",
+                        "dailyDouble": true
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This is DJ clue 3.4",
+                        "solution": "What is the solution to DJ clue 3.4?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "This is DJ clue 3.5",
+                        "solution": "What is the solution to DJ clue 3.5?"
+                    }
+                ]
+            },
+            {
+                "category": "Double Category 4",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "This is DJ clue 4.1",
+                        "solution": "What is the solution to DJ clue 4.1?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This is DJ clue 4.2",
+                        "solution": "What is the solution to DJ clue 4.2?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "This is DJ clue 4.3",
+                        "solution": "What is the solution to DJ clue 4.3?"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This is DJ clue 4.4",
+                        "solution": "What is the solution to DJ clue 4.4?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "This is DJ clue 4.5",
+                        "solution": "What is the solution to DJ clue 4.5?"
+                    }
+                ]
+            },
+            {
+                "category": "Double Category 5",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "This is DJ clue 5.1",
+                        "solution": "What is the solution to DJ clue 5.1?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This is DJ clue 5.2",
+                        "solution": "What is the solution to DJ clue 5.2?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "This is DJ clue 5.3",
+                        "solution": "What is the solution to DJ clue 5.3?"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This is DJ clue 5.4",
+                        "solution": "What is the solution to DJ clue 5.4?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "This is DJ clue 5.5",
+                        "solution": "What is the solution to DJ clue 5.5?"
+                    }
+                ]
+            },
+            {
+                "category": "Double Category 6", 
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "This is DJ clue 6.1",
+                        "solution": "What is the solution to DJ clue 6.1?"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "This is DJ clue 6.2",
+                        "solution": "What is the solution to DJ clue 6.2?"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "This is DJ clue 6.3",
+                        "solution": "What is the solution to DJ clue 6.3?"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This is DJ clue 6.4",
+                        "solution": "What is the solution to DJ clue 6.4?"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "This is DJ clue 6.5",
+                        "solution": "What is the solution to DJ clue 6.5?"
+                    }
+                ]
+            }
+        ],
+        "final": {
+            "category": "Final Category",
+            "clue": "This is the Final Jeopardy clue.",
+            "solution": "What is the solution to the Final Jeopardy clue?"
+        }
+    }
+}
