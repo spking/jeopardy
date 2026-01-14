@@ -2,7 +2,7 @@
 
 ## Flokkar: Fyrsta umferð:
 __1 Líkindamynd__
-> Sýnt eru emojis sem mynda eitthvað orð, spurt er um orðið. (Ath. allt á íslensku)
+> Sýnt eru emojis sem geta merkt íslenskt staðarheiti eða hljómað svipað og staðarheiti.
 
 __2: 2019__
 > Spurt er um merkilega atburði og augnablik frá árinu 2019
