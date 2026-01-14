@@ -11,22 +11,22 @@
                     },
                     {
                         "value": 400,
-                        "clue": "🍦🅰️🥳🚪",
+                        "clue": "🍦🅰️🥳🚪-H",
                         "solution": "´Ísafjörður"
                     },
                     {
                         "value": 600,
-                        "clue": "👶⛳⛰️",
-                        "solution": "Ingólfsfjall"
-                    },
-                    {
-                        "value": 800,
                         "clue": "🐏🚣🪝",
                         "solution": "Sauðárkrókur"
                     },
                     {
+                        "value": 800,
+                        "clue": "🏳️‍🌈🎩",
+                        "solution": "Geysir"
+                    },
+                    {
                         "value": 1000,
-                        "clue": "↗️🏃🏔️",
+                        "clue": "↗️🏋️🏔️",
                         "solution": "Öræfajökull"
                     }
                 ]
