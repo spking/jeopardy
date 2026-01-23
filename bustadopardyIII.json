@@ -62,32 +62,32 @@
                 ]
             },
             {
-                "category": "Single Category 3",
+                "category": "Mollywood",
                 "clues": [
                     {
                         "value": 200,
-                        "clue": "This is clue 3.1",
-                        "solution": "What is the solution to clue 3.1?"
+                        "clue": "Tvær ungar lespíur hrynja í harðann heim eiturlyfja",
+                        "solution": "Lof mér að falla"
                     },
                     {
                         "value": 400,
-                        "clue": "This is clue 3.2",
-                        "solution": "What is the solution to clue 3.2?"
+                        "clue": "Tveir fíkniefnadjöflar skáka í gegnum vaxandi og höggþyngri undirheim eiturlyfja á íslandi.",
+                        "solution": "Svartur á leik"
                     },
                     {
                         "value": 600,
-                        "clue": "This is clue 3.3",
-                        "solution": "What is the solution to clue 3.3?"
+                        "clue": "Reykvískur Serbi leitar að hefnd eftir áfall, örlögin hans tvinnast saman við spillta lögreglukonu og dvalandi glæpakóng.",
+                        "solution": "Borgríki"
                     },
                     {
                         "value": 800,
-                        "clue": "This is clue 3.4",
-                        "solution": "What is the solution to clue 3.4?"
+                        "clue": "Faðir neyðist til að grípa inn í þegar dóttir hans eignast kærasta sem er fíkniefnasali",
+                        "solution": "Eiðurinn"
                     },
                     {
                         "value": 1000,
-                        "clue": "This is clue 3.5",
-                        "solution": "What is the solution to clue 3.5?"
+                        "clue": "Ævisaga vandræðaunglings úr efnaðri fjölskyldu sem verður vitni á dauða bróður síns og missir tökin á lífinu",
+                        "solution": "Falskur Fugl"
                     }
                 ]
             },
