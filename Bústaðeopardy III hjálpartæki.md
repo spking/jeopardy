@@ -22,9 +22,10 @@ Smáatriði í spurningum:
 
 ## Flokkar: Önnur umferð
 __1: iSíminn__
-> Ýmisslegur fróðleikur um iPhone og samhliða Apple vörum
+> Ýmislegur fróðleikur um iPhone og samhliða Apple vörum
 
-__2: ?__
+__2: Einnasmelluundur__
+> Íslenskir tónlistamenn sem áttu bara einn raunverulegan stórsmell
 
 __3: ?__
 

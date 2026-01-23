@@ -188,7 +188,7 @@
                 "clues": [
                     {
                         "value": 400,
-                        "clue": "SMS skilaboð milli tveggja iPhone símum er einkennd af bláum spjallbúbblum, en hvernig eru þær á litin þegar sent er á Android síma?",
+                        "clue": "SMS skilaboð milli tveggja iPhone síma er einkennt af bláum spjallbúbblum, en hvernig eru þær á litin þegar sent er á Android síma?",
                         "solution": "Grænar"
                     },
                     {
@@ -198,13 +198,13 @@
                     },
                     {
                         "value": 1200,
-                        "clue": "''Tíundi'' iPhone-inn, sem þeir kölluðu iPhone X, kom út árið 2017, en hvað var svona óvenjulegt við að hann var kallaður ''X''",
-                        "solution": "Þeir hoppuðu yfir iPhone 9"
+                        "clue": "Árið 2017 kynntu Apple iPhone 7 á markaðinn sem var fyrsti iPhone-inn sem var ekki með heyrnartólatengi, sérkennileg tímasetning vegna hinnar vörunnar sem Apple kynndi samhliða",
+                        "solution": "Útgáfu á Apple Airpods?"
                     },
                     {
                         "value": 1600,
-                        "clue": "Árið 2017 kynntu Apple iPhone 7 á markaðinn sem var fyrsti iPhone-inn sem var ekki með heyrnartólatengi, sérkennileg tímasetning vegna hinnar vörunnar sem Apple kynndi samhliða",
-                        "solution": "What is the solution to DJ clue 1.4?"
+                        "clue": "''Tíundi'' iPhone-inn, sem þeir kölluðu iPhone X, kom út árið 2017, en hvað var svona óvenjulegt við að hann var kallaður ''X''",
+                        "solution": "Þeir hoppuðu yfir iPhone 9"
                     },
                     {
                         "value": 2000,
