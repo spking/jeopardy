@@ -214,7 +214,7 @@
                 ]
             },
             {
-                "category": "Double Category 2",
+                "category": "Einnasmelluundur",
                 "clues": [
                     {
                         "value": 400,
@@ -238,8 +238,8 @@
                     },
                     {
                         "value": 2000,
-                        "clue": "This is DJ clue 2.5",
-                        "solution": "What is the solution to DJ clue 2.5?"
+                        "clue": "Þessi söngkona átti 15 mínútur af frægð á Eurovision sviði sem hún deildi með öðrum frægum söngvara.",
+                        "solution": "Regína Ósk"
                     }
                 ]
             },
