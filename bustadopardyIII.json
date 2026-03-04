@@ -92,37 +92,37 @@
                 ]
             },
             {
-                "category": "Single Category 4",
+                "category": "Illkvenni",
                 "clues": [
                     {
                         "value": 200,
                         "clue": "This is clue 4.1",
-                        "solution": "What is the solution to clue 4.1?"
+                        "solution": "Annabelle"
                     },
                     {
                         "value": 400,
                         "clue": "This is clue 4.2",
-                        "solution": "What is the solution to clue 4.2?"
+                        "solution": "Bellatrix Lastrange?"
                     },
                     {
                         "value": 600,
                         "clue": "This is clue 4.3",
-                        "solution": "What is the solution to clue 4.3?"
+                        "solution": "Catwoman"
                     },
                     {
                         "value": 800,
                         "clue": "This is clue 4.4",
-                        "solution": "What is the solution to clue 4.4?"
+                        "solution": "May Day"
                     },
                     {
                         "value": 1000,
                         "clue": "This is clue 4.5",
-                        "solution": "What is the solution to clue 4.5?"
+                        "solution": "Oren-Ishi"
                     }
                 ]
             },
             {
-                "category": "Single Category 5",
+                "category": "Gettu Vegur",
                 "clues": [
                     {
                         "value": 200,
@@ -244,7 +244,7 @@
                 ]
             },
             {
-                "category": "Double Category 3",
+                "category": "Umsátur",
                 "clues": [
                     {
                         "value": 400,
@@ -275,7 +275,7 @@
                 ]
             },
             {
-                "category": "Double Category 4",
+                "category": "Rétta röðin",
                 "clues": [
                     {
                         "value": 400,
@@ -305,7 +305,7 @@
                 ]
             },
             {
-                "category": "Double Category 5",
+                "category": "Gettu vetur",
                 "clues": [
                     {
                         "value": 400,
