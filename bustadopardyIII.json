@@ -161,8 +161,8 @@
                     },
                     {
                         "value": 400,
-                        "clue": "Á RÚV voru um tímabil aðeins 2 íþróttafréttamenn, einn af þeim var Einar Örn Jónsson, en í hvaða íþrótt keppti hann áður en hann hóf störf sem íþróttafréttamaður?",
-                        "solution": "Handknattleik Karla"
+                        "clue": "This is clue 6.2",
+                        "solution": "What is the solution to clue 6.2?"
                     },
                     {
                         "value": 600,
@@ -171,8 +171,8 @@
                     },
                     {
                         "value": 800,
-                        "clue": "This is clue 6.4",
-                        "solution": "What is the solution to clue 6.4?"
+                        "clue": "Á RÚV voru um tímabil aðeins 2 íþróttafréttamenn, einn af þeim var Einar Örn Jónsson, en í hvaða íþrótt keppti hann áður en hann hóf störf sem íþróttafréttamaður?",
+                        "solution": "Handknattleik Karla"
                     },
                     {
                         "value": 1000,
@@ -364,11 +364,6 @@
                     }
                 ]
             }
-        ],
-        "final": {
-            "category": "Final Category",
-            "clue": "This is the Final Jeopardy clue.",
-            "solution": "What is the solution to the Final Jeopardy clue?"
-        }
+        ]    
     }
 }
