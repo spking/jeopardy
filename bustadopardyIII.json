@@ -126,28 +126,33 @@
                 "clues": [
                     {
                         "value": 200,
-                        "clue": "./myndir/sj56.png",
-                        "solution": "Bannað að leggja ökutæki"
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj56.png' style='max-width:80%; max-height:400px'>",
+                        "solution": "Bannað að leggja ökutæki",
+                        "html": true
                     },
                     {
                         "value": 400,
-                        "clue": "./myndir/sj51.png",
-                        "solution": "Bílaleiga"
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj51.png' style='max-width:80%; max-height:400px'>",
+                        "solution": "Bílaleiga",
+                        "html": true
                     },
                     {
                         "value": 600,
-                        "clue": "./myndir/sj57.png",
-                        "solution": "Framúrakstur bannaður"
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj57.png' style='max-width:80%; max-height:400px'>",
+                        "solution": "Framúrakstur bannaður",
+                        "html": true
                     },
                     {
                         "value": 800,
-                        "clue": "./myndir/sj52.png",
-                        "solution": "Áhugaverður staður"
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj52.png' style='max-width:80%; max-height:400px'>",
+                        "solution": "Áhugaverður staður",
+                        "html": true
                     },
                     {
                         "value": 1000,
-                        "clue": "./myndir/sj55.png",
-                        "solution": "Akstur ökutækja með hættulegan farm bannaður"
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj55.png' style='max-width:80%; max-height:400px'>",
+                        "solution": "Akstur ökutækja með hættulegan farm bannaður",
+                        "html": true
                     }
                 ]
             },
