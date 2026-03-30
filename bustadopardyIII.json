@@ -51,13 +51,13 @@
                     },
                     {
                         "value": 800,
-                        "clue": "Önnur söguleg mynd, í þetta skipti tekin af mjög fjarlægru og stóru fyrirbæri og var þetta fyrsta skipti sem mynd af slíku fyrirbæri náðist, hvert er fyrirbærið?",
-                        "solution": "Svartholi"
+                        "clue": "Avengers myndaserían lauk árið 2019 með myndinni Avengers:Endgame, en önnur sería endaði sama ár; ein eftirvæntasta útkoma á sögu á okkar kynslóð, en margir voru ósáttir með hvernig hún endaði. Hver er serían?",
+                        "solution": "Game of Thrones"
                     },
                     {
                         "value": 1000,
-                        "clue": "Avengers myndaserían lauk árið 2019 með myndinni Avengers:Endgame, en önnur sería endaði sama ár; ein eftirvæntasta útkoma á sögu á okkar kynslóð, en margir voru ósáttir með hvernig hún endaði. Hver er serían?",
-                        "solution": "Game of Thrones"
+                        "clue": "Önnur söguleg mynd, í þetta skipti tekin af mjög fjarlægru og stóru fyrirbæri og var þetta fyrsta skipti sem mynd af slíku fyrirbæri náðist, hvert er fyrirbærið?",
+                        "solution": "Svartholi"
                     }
                 ]
             },
@@ -96,28 +96,28 @@
                 "clues": [
                     {
                         "value": 200,
-                        "clue": "This is clue 4.1",
-                        "solution": "Annabelle"
+                        "clue": "Er þú lítur í augun á þessari grísku gyðju breytist þú samstundis í stein.",
+                        "solution": "Medusa"
                     },
                     {
                         "value": 400,
-                        "clue": "This is clue 4.2",
-                        "solution": "Bellatrix Lastrange?"
-                    },
-                    {
-                        "value": 600,
-                        "clue": "This is clue 4.3",
+                        "clue": "Þessi grímuklædda kona hefur enga ofurkrafta en notar liðleika og laumleika til að stela gimsteinum og öðrum verðmætum. Líkt og hetja sögunnar er hún kennd við ákveðið dýr.",
                         "solution": "Catwoman"
                     },
                     {
+                        "value": 600,
+                        "clue": "Þessi yfirnáttúrulega djöfladúkkulísa hefur ýmsa krafta, eins og að andsetja, en er líka gjörn á því að nota kníf á fórnarlömbin sín.",
+                        "solution": "Dúkkan Annabelle"
+                    },
+                    {
                         "value": 800,
-                        "clue": "This is clue 4.4",
-                        "solution": "May Day"
+                        "clue": "Þessi norn ræður yfir veturhrjáðu landi sem kemst einhvernvegin allt fyrir inní fataskáp.",
+                        "solution": "Hvíta nornin"
                     },
                     {
                         "value": 1000,
-                        "clue": "This is clue 4.5",
-                        "solution": "Oren-Ishi"
+                        "clue": "Þessi norn er ein af mikilvægustu illmennum í líklega ein af frægustu bókaseríum síðari tíma, þar sem hún aðstoðar neflausan fjöldamorðingja í baráttunni sinni við gleraugaðan ungling.",
+                        "solution": "Bellatrix Lastrange"
                     }
                 ]
             },
@@ -161,13 +161,13 @@
                 "clues": [
                     {
                         "value": 200,
-                        "clue": "This is clue 6.1",
-                        "solution": "What is the solution to clue 6.1?"
+                        "clue": "Hvaða íþrótt lýsa Kristján Einar Kristjánsson og Bragi Þórðarson á Viaplay",
+                        "solution": "Formúlu 1"
                     },
                     {
                         "value": 400,
-                        "clue": "This is clue 6.2",
-                        "solution": "What is the solution to clue 6.2?"
+                        "clue": "Í frægu klippuni af Gumma Ben að missa vitið á EM 2016, á móti hvaða landi var Arnór Ingvi Traustason að skora sigurmark á 90+3 mínútu?",
+                        "solution": "Austurríki"
                     },
                     {
                         "value": 600,
@@ -177,7 +177,7 @@
                     {
                         "value": 800,
                         "clue": "Á RÚV voru um tímabil aðeins 2 íþróttafréttamenn, einn af þeim var Einar Örn Jónsson, en í hvaða íþrótt keppti hann áður en hann hóf störf sem íþróttafréttamaður?",
-                        "solution": "Handknattleik Karla"
+                        "solution": "Handbolta"
                     },
                     {
                         "value": 1000,
@@ -219,7 +219,7 @@
                 ]
             },
             {
-                "category": "Einnasmelluundur",
+                "category": "",
                 "clues": [
                     {
                         "value": 400,
