@@ -14,7 +14,7 @@ __4: Illkvenni__
 > Kvenkyns Illmenni í kvikmyndum og sjónvarpi
 
 __5: Gettu vegur__
-> Merkingar vegagerðinnar og meining þeirra
+> Umferðamerki og meining þeirra
 
 __6: Höddi Magg__
 > Spurt er um íslenska íþróttafréttamenn og lýsendur
@@ -26,8 +26,8 @@ Smáatriði í spurningum:
 __1: iSíminn__
 > Ýmislegur fróðleikur um iPhone og samhliða Apple vörum
 
-__2: Einnasmelluundur__
-> Íslenskir tónlistamenn sem áttu bara einn raunverulegan stórsmell
+__2:  ?__
+> 
 
 __3: Umsátur__
 > Íþróttamet sem snúa að langlífi
