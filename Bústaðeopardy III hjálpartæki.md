@@ -26,8 +26,8 @@ Smáatriði í spurningum:
 __1: iSíminn__
 > Ýmislegur fróðleikur um iPhone og samhliða Apple vörum
 
-__2:  ?__
-> 
+__2:  Týndur í sósunni__
+>  Hvaða sósur mynda þessi hráefni?
 
 __3: Umsátur__
 > Íþróttamet sem snúa að langlífi

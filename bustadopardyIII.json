@@ -219,32 +219,32 @@
                 ]
             },
             {
-                "category": "",
+                "category": "Týndur í sósunni",
                 "clues": [
                     {
                         "value": 400,
-                        "clue": "This is DJ clue 2.1",
-                        "solution": "What is the solution to DJ clue 2.1?"
+                        "clue": "Kjúklinga- eða nautasoð, smjör, hveiti, salt og pipar",
+                        "solution": "Gravy sósa"
                     },
                     {
                         "value": 800,
-                        "clue": "This is DJ clue 2.2",
-                        "solution": "What is the solution to DJ clue 2.2?"
+                        "clue": "Dijon Sinnep, Mayones, Hunang, Hvítlaukssalt",
+                        "solution": "Hunangssinneps sósa"
                     },
                     {
                         "value": 1200,
-                        "clue": "This is DJ clue 2.3",
-                        "solution": "What is the solution to DJ clue 2.3?"
+                        "clue": "Tómatssósa, Eplaedik, Púðursykur, Hunang, Worchester sósa",
+                        "solution": "Barbecue sósa"
                     },
                     {
                         "value": 1600,
-                        "clue": "This is DJ clue 2.4",
-                        "solution": "What is the solution to DJ clue 2.4?"
+                        "clue": "Hot sauce, hunang, worchester sósa, hvítlaukskrydd og smjör",
+                        "solution": "Buffalo sósa"
                     },
                     {
                         "value": 2000,
-                        "clue": "Þessi söngkona átti 15 mínútur af frægð á Eurovision sviði sem hún deildi með öðrum frægum söngvara.",
-                        "solution": "Regína Ósk"
+                        "clue": "Eggjarauður, Sítrónur og smjör",
+                        "solution": "Hollandaise sósa"
                     }
                 ]
             },
@@ -280,7 +280,7 @@
                 ]
             },
             {
-                "category": "Rétta röðin",
+                "category": "Þriggja rétta",
                 "clues": [
                     {
                         "value": 400,
