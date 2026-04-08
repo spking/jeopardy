@@ -22,7 +22,7 @@ __6: Höddi Magg__
 Smáatriði í spurningum:
 
 
-## Flokkar: Önnur umferð
+## Flokkar: Önnur umferð stigin tvöfaldast
 __1: iSíminn__
 > Ýmislegur fróðleikur um iPhone og samhliða Apple vörum
 
@@ -32,10 +32,11 @@ __2:  Týndur í sósunni__
 __3: Umsátur__
 > Íþróttamet sem snúa að langlífi
 
-__4: Rétta röðin__
-> Settu atriðin í rétta röð
+__4: Þriggja rétta__
+> Hvað mynda þessi þrjú atriði
 
 __5: Gettu vetur__
 > Merkingar veðurstofu og meining þeirra
 
-__6: ?__
+__6: Skrifað í stjörnurnar__
+> Frægt fólk og stjörnufræði

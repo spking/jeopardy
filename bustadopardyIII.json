@@ -126,31 +126,31 @@
                 "clues": [
                     {
                         "value": 200,
-                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj56.png' style='max-width:80%; max-height:400px'>",
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj56.png' style='max-width:110%; max-height:600px'>",
                         "solution": "Bannað að leggja ökutæki",
                         "html": true
                     },
                     {
                         "value": 400,
-                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj51.png' style='max-width:80%; max-height:400px'>",
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj51.png' style='max-width:110%; max-height:600px'>",
                         "solution": "Bílaleiga",
                         "html": true
                     },
                     {
                         "value": 600,
-                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj57.png' style='max-width:80%; max-height:400px'>",
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj57.png' style='max-width:110%; max-height:600px'>",
                         "solution": "Framúrakstur bannaður",
                         "html": true
                     },
                     {
                         "value": 800,
-                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj52.png' style='max-width:80%; max-height:400px'>",
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj52.png' style='max-width:110%; max-height:600px'>",
                         "solution": "Áhugaverður staður",
                         "html": true
                     },
                     {
                         "value": 1000,
-                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj55.png' style='max-width:80%; max-height:400px'>",
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/sj55.png' style='max-width:110%; max-height:600px'>",
                         "solution": "Akstur ökutækja með hættulegan farm bannaður",
                         "html": true
                     }
@@ -203,18 +203,18 @@
                     },
                     {
                         "value": 1200,
-                        "clue": "Árið 2017 kynntu Apple iPhone 7 á markaðinn sem var fyrsti iPhone-inn sem var ekki með heyrnartólatengi, sérkennileg tímasetning vegna hinnar vörunnar sem Apple kynndi samhliða",
-                        "solution": "Útgáfu á Apple Airpods?"
+                        "clue": "Árið 2016 kynntu Apple iPhone 7 á markaðinn sem var fyrsti iPhone-inn sem var ekki með heyrnartólatengi, sérkennileg tímasetning vegna hinnar vörunnar sem Apple kynndi samhliða",
+                        "solution": "Apple Airpods"
                     },
                     {
                         "value": 1600,
-                        "clue": "''Tíundi'' iPhone-inn, sem þeir kölluðu iPhone X, kom út árið 2017, en hvað var svona óvenjulegt við að hann var kallaður ''X''",
-                        "solution": "Þeir hoppuðu yfir iPhone 9"
+                        "clue": "Þessi eiginleiki var kynntur með iPhone X, ný leið til að opna símann, Apple taldi hann vera svo öruggan að það væri tölfræðilega ómögulegt fyrir ókunnugan aðila að komast í símann",
+                        "solution": "FaceID"
                     },
                     {
                         "value": 2000,
-                        "clue": "This is DJ clue 1.5",
-                        "solution": "What is the solution to DJ clue 1.5?"
+                        "clue": "''Tíundi'' iPhone-inn, sem þeir kölluðu iPhone X, kom út árið 2017, en hvað var svona óvenjulegt við að hann var kallaður ''X''",
+                        "solution": "Þeir hoppuðu yfir iPhone 9"
                     }
                 ]
             },
@@ -253,24 +253,23 @@
                 "clues": [
                     {
                         "value": 400,
-                        "clue": "This is DJ clue 3.1",
-                        "solution": "What is the solution to DJ clue 3.1?"
+                        "clue": "Þessi fótboltaleikmaður hefur leikið flesta leiki með landsliði",
+                        "solution": "Cristiano Ronaldo"
                     },
                     {
                         "value": 800,
-                        "clue": "This is DJ clue 3.2",
-                        "solution": "What is the solution to DJ clue 3.2?"
+                        "clue": "Þessi sundkappi hefur unnið flestar Ólympíumedalíur sögunnar",
+                        "solution": "Michael Phelps"
                     },
                     {
                         "value": 1200,
-                        "clue": "This is DJ clue 3.3",
-                        "solution": "What is the solution to DJ clue 3.3?",
-                        "dailyDouble": true
+                        "clue": "Hvað eru mörg ár á milli fyrsta og seinasta Masters sigur Tiger Woods",
+                        "solution": "22 ár (fyrsti 1997 - seinasti 2019)"
                     },
                     {
                         "value": 1600,
-                        "clue": "This is DJ clue 3.4",
-                        "solution": "What is the solution to DJ clue 3.4?"
+                        "clue": "Þessi fótboltagoðsögn skoraði í 21 samfelldum tímabilum í Ensku Úrvalsdeildinni",
+                        "solution": "Ryan Giggs"
                     },
                     {
                         "value": 2000,
@@ -284,28 +283,28 @@
                 "clues": [
                     {
                         "value": 400,
-                        "clue": "This is DJ clue 4.1",
-                        "solution": "What is the solution to DJ clue 4.1?"
+                        "clue": "Auddi, Steindi og Gillz",
+                        "solution": "FM95Blö"
                     },
                     {
                         "value": 800,
-                        "clue": "This is DJ clue 4.2",
-                        "solution": "What is the solution to DJ clue 4.2?"
+                        "clue": "Brons, silfur, gull",
+                        "solution": "Verðlaunamedalíur"
                     },
                     {
                         "value": 1200,
-                        "clue": "This is DJ clue 4.3",
-                        "solution": "What is the solution to DJ clue 4.3?"
+                        "clue": "Protein, kolvetni, fita",
+                        "solution": "Orkugefandi næringarefni"
                     },
                     {
                         "value": 1600,
-                        "clue": "This is DJ clue 4.4",
-                        "solution": "What is the solution to DJ clue 4.4?"
+                        "clue": "Vegurinn, sannleikurinn og lífið",
+                        "solution": "Jesú Kristur"
                     },
                     {
                         "value": 2000,
-                        "clue": "This is DJ clue 4.5",
-                        "solution": "What is the solution to DJ clue 4.5?"
+                        "clue": "Fiðla, víóla, selló",
+                        "solution": "Hljóðfærin í klassísku Strengjatríó"
                     }
                 ]
             },
@@ -314,53 +313,53 @@
                 "clues": [
                     {
                         "value": 400,
-                        "clue": "This is DJ clue 5.1",
-                        "solution": "What is the solution to DJ clue 5.1?"
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/vs44.png' style='max-width:110%; max-height:600px'>",
+                        "solution": "Rigning"
                     },
                     {
                         "value": 800,
-                        "clue": "This is DJ clue 5.2",
-                        "solution": "What is the solution to DJ clue 5.2?"
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/vs45.png' style='max-width:110%; max-height:600px'>",
+                        "solution": "Alskýað"
                     },
                     {
                         "value": 1200,
-                        "clue": "This is DJ clue 5.3",
-                        "solution": "What is the solution to DJ clue 5.3?"
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/vs47.png' style='max-width:110%; max-height:600px'>",
+                        "solution": "Skafrenningur"
                     },
                     {
                         "value": 1600,
-                        "clue": "This is DJ clue 5.4",
-                        "solution": "What is the solution to DJ clue 5.4?"
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/vs46.png' style='max-width:110%; max-height:600px'>",
+                        "solution": "Skýað"
                     },
                     {
                         "value": 2000,
-                        "clue": "This is DJ clue 5.5",
-                        "solution": "What is the solution to DJ clue 5.5?"
+                        "clue": "<img src='https://raw.githubusercontent.com/spking/jeopardy/main/myndir/vs48.png' style='max-width:110%; max-height:600px'>",
+                        "solution": "Hagl"
                     }
                 ]
             },
             {
-                "category": "Double Category 6", 
+                "category": "Skrifað í stjörnurnar", 
                 "clues": [
                     {
                         "value": 400,
-                        "clue": "This is DJ clue 6.1",
-                        "solution": "What is the solution to DJ clue 6.1?"
+                        "clue": "Þessi söngvari deilir nafni með plánetu.",
+                        "solution": "Bruno Mars"
                     },
                     {
                         "value": 800,
-                        "clue": "This is DJ clue 6.2",
-                        "solution": "What is the solution to DJ clue 6.2?"
+                        "clue": "Mjög vinsæll bjór, nafnið hans merkir 'Stjarna' á Latínu, sökum þess að hann var upprunalega bruggaður um jólin",
+                        "solution": "Stella Artois"
                     },
                     {
                         "value": 1200,
-                        "clue": "This is DJ clue 6.3",
-                        "solution": "What is the solution to DJ clue 6.3?"
+                        "clue": "Þessi vinsæli bjór ber sama nafn og ysta lag sólarinnar",
+                        "solution": "Corona [Extra]"
                     },
                     {
                         "value": 1600,
-                        "clue": "This is DJ clue 6.4",
-                        "solution": "What is the solution to DJ clue 6.4?"
+                        "clue": "Í stjörnumerkinu Nautið má finna stjörnuþyrpingu sem nefnist Sjöstirnið, hvaða bílaframleiðandi er með þessa stjörnuþyrpingu í merkinu sínu?",
+                        "solution": "Subaru"
                     },
                     {
                         "value": 2000,
