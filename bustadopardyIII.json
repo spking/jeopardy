@@ -213,7 +213,7 @@
                     },
                     {
                         "value": 2000,
-                        "clue": "''Tíundi'' iPhone-inn, sem þeir kölluðu iPhone X, kom út árið 2017, en hvað var svona óvenjulegt við að hann var kallaður ''X''",
+                        "clue": "'Tíundi' iPhone-inn, sem þeir kölluðu iPhone X, kom út árið 2017, en hvað var svona óvenjulegt við að hann var kallaður 'X'",
                         "solution": "Þeir hoppuðu yfir iPhone 9"
                     }
                 ]
@@ -273,8 +273,8 @@
                     },
                     {
                         "value": 2000,
-                        "clue": "This is DJ clue 3.5",
-                        "solution": "What is the solution to DJ clue 3.5?"
+                        "clue": "Í Febrúar sló James Milner leikja met Gareth Barry í Ensku úrvalsdeildinni, í Ítölsku deildinni er metið sama, 657 leikir, hver á það met?",
+                        "solution": "Gianluigi Buffon"
                     }
                 ]
             },
@@ -348,13 +348,13 @@
                     },
                     {
                         "value": 800,
-                        "clue": "Mjög vinsæll bjór, nafnið hans merkir 'Stjarna' á Latínu, sökum þess að hann var upprunalega bruggaður um jólin",
-                        "solution": "Stella Artois"
+                        "clue": "Þessi vinsæli bjór ber sama nafn og ysta lag sólarinnar",
+                        "solution": "Corona [Extra]"
                     },
                     {
                         "value": 1200,
-                        "clue": "Þessi vinsæli bjór ber sama nafn og ysta lag sólarinnar",
-                        "solution": "Corona [Extra]"
+                        "clue": "Mjög vinsæll bjór, nafnið hans merkir 'Stjarna' á Latínu, sökum þess að hann var upprunalega bruggaður um jólin",
+                        "solution": "Stella Artois"
                     },
                     {
                         "value": 1600,
@@ -363,8 +363,8 @@
                     },
                     {
                         "value": 2000,
-                        "clue": "This is DJ clue 6.5",
-                        "solution": "What is the solution to DJ clue 6.5?"
+                        "clue": "Þetta íslenska fyrirtæki er eitt stærsta ræstingarfyrirtæki landsins en nafnið ætti betur heima á sólbaðstofu",
+                        "solution": "Sólar"
                     }
                 ]
             }
